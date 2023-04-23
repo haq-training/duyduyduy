@@ -1,0 +1,2987 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {
+        "data": {
+            "houses": {
+                "nodes": [
+                    {
+                        "_id": "5a05e2b252f721a3cf2ea33f",
+                        "name": "Gryffindor",
+                        "mascot": "lion",
+                        "headOfHouse": "Minerva McGonagall",
+                        "houseGhost": "Nearly Headless Nick",
+                        "founder": "Goderic Gryffindor",
+                        "values": [
+                            "courage",
+                            "bravery",
+                            "nerve",
+                            "chivalry"
+                        ],
+                        "colors": [
+                            "scarlet",
+                            "gold"
+                        ]
+                    },
+                    {
+                        "_id": "5a05dc58d45bd0a11bd5e070",
+                        "name": "Hufflepuff",
+                        "mascot": "badger",
+                        "headOfHouse": "Pomona Sprout",
+                        "houseGhost": "The Fat Friar",
+                        "founder": "Helga Hufflepuff",
+                        "values": [
+                            "hard work",
+                            "patience",
+                            "justice",
+                            "loyalty"
+                        ],
+                        "colors": [
+                            "yellow",
+                            "black"
+                        ]
+                    },
+                    {
+                        "_id": "5a05da69d45bd0a11bd5e06f",
+                        "name": "Ravenclaw",
+                        "mascot": "eagle",
+                        "headOfHouse": "Fillius Flitwick",
+                        "houseGhost": "The Grey Lady",
+                        "founder": "Rowena Ravenclaw",
+                        "values": [
+                            "intelligence",
+                            "creativity",
+                            "learning",
+                            "wit"
+                        ],
+                        "colors": [
+                            "blue",
+                            " bronze"
+                        ]
+                    },
+                    {
+                        "_id": "5a05dc8cd45bd0a11bd5e071",
+                        "name": "Slytherin",
+                        "mascot": "serpent",
+                        "headOfHouse": "Severus Snape",
+                        "houseGhost": "The Bloody Baron",
+                        "founder": "Salazar Slytherin",
+                        "values": [
+                            "ambition",
+                            "cunning",
+                            "leadership",
+                            "resourcefulness"
+                        ],
+                        "colors": [
+                            "green",
+                            "silver"
+                        ]
+                    }
+                ]
+            },
+            "spells": {
+                "nodes": [
+                    {
+                        "spell": "Aberto",
+                        "type": "Charm",
+                        "effect": "opens objects"
+                    },
+                    {
+                        "spell": "Accio",
+                        "type": "Charm",
+                        "effect": "Summons an object"
+                    },
+                    {
+                        "spell": "Age Line",
+                        "type": "Enchantment",
+                        "effect": "Hides things from younger people"
+                    },
+                    {
+                        "spell": "Aguamenti",
+                        "type": "Charm",
+                        "effect": "shoots water from wand"
+                    },
+                    {
+                        "spell": "Alarte Ascendare",
+                        "type": "Spell",
+                        "effect": "shoots things high in the air"
+                    },
+                    {
+                        "spell": "Alohomora",
+                        "type": "Charm",
+                        "effect": "opens locked objects"
+                    },
+                    {
+                        "spell": "Anapneo",
+                        "type": "Spell",
+                        "effect": "clears the target's airway"
+                    },
+                    {
+                        "spell": "Anteoculatia",
+                        "type": "Hex",
+                        "effect": "turns head hair into antlers"
+                    },
+                    {
+                        "spell": "Anti-Cheating",
+                        "type": "Spell",
+                        "effect": "prevents cheating on exams"
+                    },
+                    {
+                        "spell": "Aparecium",
+                        "type": "Spell",
+                        "effect": "reveals invisible ink"
+                    },
+                    {
+                        "spell": "Apparate",
+                        "type": "Spell",
+                        "effect": "teleportation spell"
+                    },
+                    {
+                        "spell": "Arania Exumai",
+                        "type": "Spell",
+                        "effect": "blasts away spiders"
+                    },
+                    {
+                        "spell": "Aqua Eructo",
+                        "type": "Spell",
+                        "effect": "shoots water from wand"
+                    },
+                    {
+                        "spell": "Arresto Momentum",
+                        "type": "Spell",
+                        "effect": "slows down objects"
+                    },
+                    {
+                        "spell": "Ascendio",
+                        "type": "Spell",
+                        "effect": "moves an object upward"
+                    },
+                    {
+                        "spell": "Avada Kedavra",
+                        "type": "Curse",
+                        "effect": "murders opponent"
+                    },
+                    {
+                        "spell": "Avifors",
+                        "type": "Charm",
+                        "effect": "turns small objects into birds"
+                    },
+                    {
+                        "spell": "Avis",
+                        "type": "Spell",
+                        "effect": "launches birds from your wand"
+                    },
+                    {
+                        "spell": "Babbling Curse ",
+                        "type": "Curse",
+                        "effect": "makes a person babble"
+                    },
+                    {
+                        "spell": "Bombarda",
+                        "type": "Spell",
+                        "effect": "causes explosions"
+                    },
+                    {
+                        "spell": "Bombarda Maxima",
+                        "type": "Spell",
+                        "effect": "causes large explosions"
+                    },
+                    {
+                        "spell": "Bubble Head",
+                        "type": "Charm",
+                        "effect": "puts a person's head in a protective air bubble"
+                    },
+                    {
+                        "spell": "Carpe Retractum",
+                        "type": "Spell",
+                        "effect": "shoots a rope from a wand to snag things"
+                    },
+                    {
+                        "spell": "Caterwauling",
+                        "type": "Charm",
+                        "effect": "detects enemies and emits a scream"
+                    },
+                    {
+                        "spell": "Cave Inimicum",
+                        "type": "Charm",
+                        "effect": "detects enemies and emits an alarm"
+                    },
+                    {
+                        "spell": "Cheering",
+                        "type": "Charm",
+                        "effect": "makes a person happy and giddy"
+                    },
+                    {
+                        "spell": "Cistem Aperio",
+                        "type": "Spell",
+                        "effect": "opens things"
+                    },
+                    {
+                        "spell": "Colloportus",
+                        "type": "Spell",
+                        "effect": "locks doors"
+                    },
+                    {
+                        "spell": "Colloshoo",
+                        "type": "Spell",
+                        "effect": "makes a person's shoes stick to the ground"
+                    },
+                    {
+                        "spell": "Colovaria",
+                        "type": "Charm",
+                        "effect": "makes an object change colour"
+                    },
+                    {
+                        "spell": "Confringo",
+                        "type": "Curse",
+                        "effect": "explode flames on target"
+                    },
+                    {
+                        "spell": "Confundus",
+                        "type": "Charm",
+                        "effect": "used to confuse opponent"
+                    },
+                    {
+                        "spell": "Conjunctivitis",
+                        "type": "Curse",
+                        "effect": "damages opponent's eyesight"
+                    },
+                    {
+                        "spell": "Cornflake Skin",
+                        "type": "Curse",
+                        "effect": "gives a person cereal skin"
+                    },
+                    {
+                        "spell": "Crucio",
+                        "type": "Curse",
+                        "effect": "tortures a person"
+                    },
+                    {
+                        "spell": "Cushioning",
+                        "type": "Charm",
+                        "effect": "helps cushon a fall"
+                    },
+                    {
+                        "spell": "Defodio",
+                        "type": "Spell",
+                        "effect": "dig out materials"
+                    },
+                    {
+                        "spell": "Deletrius",
+                        "type": "Spell",
+                        "effect": "counters \"Prior Incantato\""
+                    },
+                    {
+                        "spell": "Densaugeo",
+                        "type": "Spell",
+                        "effect": "enlarges teeth"
+                    },
+                    {
+                        "spell": "Deprimo",
+                        "type": "Spell",
+                        "effect": "wind damaging spell"
+                    },
+                    {
+                        "spell": "Depulso",
+                        "type": "Charm",
+                        "effect": "drives an object away"
+                    },
+                    {
+                        "spell": "Descendo",
+                        "type": "Spell",
+                        "effect": "moves an object downwards"
+                    },
+                    {
+                        "spell": "Diffindo",
+                        "type": "Spell",
+                        "effect": "splits seams"
+                    },
+                    {
+                        "spell": "Diminuendo",
+                        "type": "Spell",
+                        "effect": "shrinks the target"
+                    },
+                    {
+                        "spell": "Dissendium",
+                        "type": "Spell",
+                        "effect": "opens passageways"
+                    },
+                    {
+                        "spell": "Disillusionment",
+                        "type": "Charm",
+                        "effect": "makes the target blend into the surroundings"
+                    },
+                    {
+                        "spell": "Duro",
+                        "type": "Spell",
+                        "effect": "makes objects hard"
+                    },
+                    {
+                        "spell": "Drought",
+                        "type": "Charm",
+                        "effect": "dries up puddles"
+                    },
+                    {
+                        "spell": "Ears to Kumquats",
+                        "type": "Spell",
+                        "effect": "gives a person kumquat ears"
+                    },
+                    {
+                        "spell": "Ear Shriveling ",
+                        "type": "Curse",
+                        "effect": "cause a person's ear to shrivel"
+                    },
+                    {
+                        "spell": "Engorgio",
+                        "type": "Charm",
+                        "effect": "enlarges an item"
+                    },
+                    {
+                        "spell": "Ennervate",
+                        "type": "Spell",
+                        "effect": "counters Stupefy"
+                    },
+                    {
+                        "spell": "Entrail-Expelling",
+                        "type": "Curse",
+                        "effect": "expel entrails from a body"
+                    },
+                    {
+                        "spell": "Episkey",
+                        "type": "Spell",
+                        "effect": "heals minor injuries"
+                    },
+                    {
+                        "spell": "Epoximise",
+                        "type": "Spell",
+                        "effect": "binds objects together"
+                    },
+                    {
+                        "spell": "Erecto",
+                        "type": "Spell",
+                        "effect": "builds things"
+                    },
+                    {
+                        "spell": "Evanesco",
+                        "type": "Spell",
+                        "effect": "makes things vanish"
+                    },
+                    {
+                        "spell": "Everte Statum",
+                        "type": "Spell",
+                        "effect": "throws a victim backwards"
+                    },
+                    {
+                        "spell": "Expecto Patronum",
+                        "type": "Charm",
+                        "effect": "creates a Patronus"
+                    },
+                    {
+                        "spell": "Expelliarmus",
+                        "type": "Charm",
+                        "effect": "disarms your opponent"
+                    },
+                    {
+                        "spell": "Expulso",
+                        "type": "Spell",
+                        "effect": "makes objects explode"
+                    },
+                    {
+                        "spell": "Extinguishing",
+                        "type": "Spell",
+                        "effect": "puts out fires"
+                    },
+                    {
+                        "spell": "Ferula",
+                        "type": "Spell",
+                        "effect": "creates bandages"
+                    },
+                    {
+                        "spell": "Fianto Duri",
+                        "type": "Charm",
+                        "effect": "defensive charm"
+                    },
+                    {
+                        "spell": "Fidelius",
+                        "type": "Charm",
+                        "effect": "hides a secret within someone"
+                    },
+                    {
+                        "spell": "Fiendfyre",
+                        "type": "Curse",
+                        "effect": "hard to control large fire curse"
+                    },
+                    {
+                        "spell": "Finestra",
+                        "type": "Spell",
+                        "effect": "turns windows to dust"
+                    },
+                    {
+                        "spell": "Finite",
+                        "type": "Spell",
+                        "effect": "finishes spell in the caster's area"
+                    },
+                    {
+                        "spell": "Finite Incantatum",
+                        "type": "Spell",
+                        "effect": "stops any current spells"
+                    },
+                    {
+                        "spell": "Flagrante",
+                        "type": "Curse",
+                        "effect": "multiplies and burns objects upon touch"
+                    },
+                    {
+                        "spell": "Flagrate",
+                        "type": "Spell",
+                        "effect": "allows user to write on objects"
+                    },
+                    {
+                        "spell": "Flame Freezing",
+                        "type": "Charm",
+                        "effect": "makes flames cool"
+                    },
+                    {
+                        "spell": "Flipendo",
+                        "type": "Jinx",
+                        "effect": "knocks an object backwards"
+                    },
+                    {
+                        "spell": "Flying",
+                        "type": "Charm",
+                        "effect": "makes objects fly"
+                    },
+                    {
+                        "spell": "Fumos",
+                        "type": "Spell",
+                        "effect": "a defensive cloud of smoke"
+                    },
+                    {
+                        "spell": "Furnunculus",
+                        "type": "Curse",
+                        "effect": "produces boils on opponent"
+                    },
+                    {
+                        "spell": "Geminio",
+                        "type": "Spell",
+                        "effect": "duplicates an object"
+                    },
+                    {
+                        "spell": "Glisseo",
+                        "type": "Spell",
+                        "effect": "turns stairs into ramps"
+                    },
+                    {
+                        "spell": "Gripping",
+                        "type": "Charm",
+                        "effect": "makes it easier to hold things"
+                    },
+                    {
+                        "spell": "Harmonia Nectere Passus",
+                        "type": "Spell",
+                        "effect": "mends broken things"
+                    },
+                    {
+                        "spell": "Homenum Revelio",
+                        "type": "Spell",
+                        "effect": "reveals humans nearby"
+                    },
+                    {
+                        "spell": "Homonculous",
+                        "type": "Charm",
+                        "effect": "lets a person track another's movement on a map"
+                    },
+                    {
+                        "spell": "Homorphus",
+                        "type": "Charm",
+                        "effect": "Lockhart's warewolf \"cure\""
+                    },
+                    {
+                        "spell": "Horcrux",
+                        "type": "Curse",
+                        "effect": "allows wizard to put their soul into an object"
+                    },
+                    {
+                        "spell": "Illegibilus",
+                        "type": "Spell",
+                        "effect": "makes text unreadable"
+                    },
+                    {
+                        "spell": "Immobulus",
+                        "type": "Charm",
+                        "effect": "renders target immobile"
+                    },
+                    {
+                        "spell": "Impedimenta",
+                        "type": "Charm",
+                        "effect": "slows an advancing object"
+                    },
+                    {
+                        "spell": "Imperio",
+                        "type": "Curse",
+                        "effect": "controls a person"
+                    },
+                    {
+                        "spell": "Impervius",
+                        "type": "Charm",
+                        "effect": "makes an object repel water"
+                    },
+                    {
+                        "spell": "Incarcerous",
+                        "type": "Spell",
+                        "effect": "ties someone up"
+                    },
+                    {
+                        "spell": "Incendio",
+                        "type": "Spell",
+                        "effect": "starts a fire"
+                    },
+                    {
+                        "spell": "Lacarnum Inflamarae",
+                        "type": "Spell",
+                        "effect": "shoots a fireball from caster's wand"
+                    },
+                    {
+                        "spell": "Langlock",
+                        "type": "Spell",
+                        "effect": "glues opponent's tongue to roof of mouth"
+                    },
+                    {
+                        "spell": "Legilimens",
+                        "type": "Spell",
+                        "effect": "allows caster to read the mind of the target"
+                    },
+                    {
+                        "spell": "Levicorpus",
+                        "type": "Spell",
+                        "effect": "hangs target upside down by feet"
+                    },
+                    {
+                        "spell": "Liberacorpus",
+                        "type": "Spell",
+                        "effect": "counter spell to Levicorpus"
+                    },
+                    {
+                        "spell": "Locomotor Mortis",
+                        "type": "Curse",
+                        "effect": "locks opponent's legs"
+                    },
+                    {
+                        "spell": "Lumos",
+                        "type": "Spell",
+                        "effect": "creates light at wand tip"
+                    },
+                    {
+                        "spell": "Lumos Maxima",
+                        "type": "Spell",
+                        "effect": "creates ball of light that can brighten a room for a long period of time"
+                    },
+                    {
+                        "spell": "Lumos Solem",
+                        "type": "Spell",
+                        "effect": "creates a strong beam of light from the wand"
+                    },
+                    {
+                        "spell": "Meteolojinx Recanto",
+                        "type": "Spell",
+                        "effect": "causes weather effect spells to stop"
+                    },
+                    {
+                        "spell": "Mimblewimble",
+                        "type": "Curse",
+                        "effect": "tongue ties it's target"
+                    },
+                    {
+                        "spell": "Mobiliarbus",
+                        "type": "Charm",
+                        "effect": "moves objects with wand"
+                    },
+                    {
+                        "spell": "Mobilicorpus",
+                        "type": "Spell",
+                        "effect": "moves unconcious bodies"
+                    },
+                    {
+                        "spell": "Morsmorde",
+                        "type": "Spell",
+                        "effect": "conjures the dark mark"
+                    },
+                    {
+                        "spell": "Morsmorde",
+                        "type": "Spell",
+                        "effect": "prevents nearby people from listening to conversations"
+                    },
+                    {
+                        "spell": "Nox",
+                        "type": "Spell",
+                        "effect": "counter to Lumos, turns off light"
+                    },
+                    {
+                        "spell": "Oculus Reparo",
+                        "type": "Spell",
+                        "effect": "repairs eyeglasses"
+                    },
+                    {
+                        "spell": "Obliteration",
+                        "type": "Charm",
+                        "effect": "removes footprints"
+                    },
+                    {
+                        "spell": "Obliviate",
+                        "type": "Charm",
+                        "effect": "erases memories"
+                    },
+                    {
+                        "spell": "Obscuro",
+                        "type": "Spell",
+                        "effect": "blindfolds the victim"
+                    },
+                    {
+                        "spell": "Oppugno",
+                        "type": "Spell",
+                        "effect": "makes conjured items attack"
+                    },
+                    {
+                        "spell": "Orchideous",
+                        "type": "Spell",
+                        "effect": "conjures flowers"
+                    },
+                    {
+                        "spell": "Periculum",
+                        "type": "Spell",
+                        "effect": "makes fireworks from the wand tip"
+                    },
+                    {
+                        "spell": "Permanent Sticking",
+                        "type": "Charm",
+                        "effect": "causes items to permanently stick to things"
+                    },
+                    {
+                        "spell": "Petrificus Totalus",
+                        "type": "Spell",
+                        "effect": "body bind"
+                    },
+                    {
+                        "spell": "Piertotum Locomotor",
+                        "type": "Spell",
+                        "effect": "animates statues and suits of armor"
+                    },
+                    {
+                        "spell": "Point Me",
+                        "type": "Charm",
+                        "effect": "wand acts like a compass"
+                    },
+                    {
+                        "spell": "Portus",
+                        "type": "Charm",
+                        "effect": "makes an object a Portkey"
+                    },
+                    {
+                        "spell": "Priori Incantatem",
+                        "type": "Spell",
+                        "effect": "when sibling wands duel, the weaker wand shows all recently cast spells"
+                    },
+                    {
+                        "spell": "Prior Incantato",
+                        "type": "Spell",
+                        "effect": "reveals a wand's last spell"
+                    },
+                    {
+                        "spell": "Protego",
+                        "type": "Charm",
+                        "effect": "cause spells to reflect back to the sender"
+                    },
+                    {
+                        "spell": "Protego Totalum",
+                        "type": "Charm",
+                        "effect": "area protection charm"
+                    },
+                    {
+                        "spell": "Quietus",
+                        "type": "Spell",
+                        "effect": "counter spell for Sonorous"
+                    },
+                    {
+                        "spell": "Reducio",
+                        "type": "Spell",
+                        "effect": "returns items to original size. counters Engorgio"
+                    },
+                    {
+                        "spell": "Reducto",
+                        "type": "Spell",
+                        "effect": "blasts solid objects aside"
+                    },
+                    {
+                        "spell": "Relashio",
+                        "type": "Spell",
+                        "effect": "releases user from binding"
+                    },
+                    {
+                        "spell": "Rennervate",
+                        "type": "Spell",
+                        "effect": "cures unconciousness"
+                    },
+                    {
+                        "spell": "Reparo",
+                        "type": "Spell",
+                        "effect": "repairs things"
+                    },
+                    {
+                        "spell": "Repello Muggletum",
+                        "type": "Spell",
+                        "effect": "keeps muggles away"
+                    },
+                    {
+                        "spell": "Repello Inimicum",
+                        "type": "Spell",
+                        "effect": "keeps evil beings away"
+                    },
+                    {
+                        "spell": "Revelio",
+                        "type": "Spell",
+                        "effect": "reveals hidden objects"
+                    },
+                    {
+                        "spell": "Rictusempra",
+                        "type": "Charm",
+                        "effect": "tickles target"
+                    },
+                    {
+                        "spell": "Riddikulus",
+                        "type": "Spell",
+                        "effect": "causes target to laugh and defeats Boggarts"
+                    },
+                    {
+                        "spell": "Salvio Hexia",
+                        "type": "Spell",
+                        "effect": "protection against hexes"
+                    },
+                    {
+                        "spell": "Scourgify",
+                        "type": "Charm",
+                        "effect": "cleaning charm"
+                    },
+                    {
+                        "spell": "Sectumsempra",
+                        "type": "Spell",
+                        "effect": "causes wounds as if slashed by a sword"
+                    },
+                    {
+                        "spell": "Serpensortia",
+                        "type": "Spell",
+                        "effect": "produces a snake"
+                    },
+                    {
+                        "spell": "Silencio",
+                        "type": "Spell",
+                        "effect": "silences target"
+                    },
+                    {
+                        "spell": "Slugulus Eructo",
+                        "type": "Charm",
+                        "effect": "makes target vomit slugs"
+                    },
+                    {
+                        "spell": "Sonorus",
+                        "type": "Spell",
+                        "effect": "amplifies voice"
+                    },
+                    {
+                        "spell": "Specialis Revelio",
+                        "type": "Spell",
+                        "effect": "reveals hidden secrets or magical properties"
+                    },
+                    {
+                        "spell": "Stinging Jinx",
+                        "type": "Jinx",
+                        "effect": "makes target feel stinging"
+                    },
+                    {
+                        "spell": "Stupefy",
+                        "type": "Spell",
+                        "effect": "knocks out target"
+                    },
+                    {
+                        "spell": "Switching Spell",
+                        "type": "Spell",
+                        "effect": "switches objects"
+                    },
+                    {
+                        "spell": "Tarantallegra",
+                        "type": "Spell",
+                        "effect": "forces target to dance"
+                    },
+                    {
+                        "spell": "Tergeo",
+                        "type": "Spell",
+                        "effect": "cleans up messes"
+                    },
+                    {
+                        "spell": "Unbreakable Vow",
+                        "type": "Spell",
+                        "effect": "a vow that if broken, kills you"
+                    },
+                    {
+                        "spell": "Vulnera Sanentur",
+                        "type": "Spell",
+                        "effect": "heals target"
+                    },
+                    {
+                        "spell": "Waddiwasi",
+                        "type": "Spell",
+                        "effect": "unsticks an object"
+                    },
+                    {
+                        "spell": "Wingardium Leviosa",
+                        "type": "Charm",
+                        "effect": "makes an object fly"
+                    }
+                ]
+            },
+            "chars": {
+                "nodes": [
+                    {
+                        "name": "Hannah Abbott",
+                        "role": "student",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Bathsheda Babbling",
+                        "role": "Professor, Ancient Runes",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Ludo Bagman",
+                        "role": "Head, Department of Magical Games and Sports",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Bathilda Bagshot",
+                        "role": "Author, A History Of Magic",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Katie Bell",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Cuthbert Binns",
+                        "role": "Professor, History of Magic",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Phineas Nigellus Black",
+                        "role": "(Formerly) Headmaster of Hogwarts",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Regulus Black",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Sirius Black",
+                        "role": null,
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Padfoot",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Amelia Bones",
+                        "role": "Head, Department of Magical Law Enforcement",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Susan Bones",
+                        "role": "student",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Terry Boot",
+                        "role": "student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Lavender Brown",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Millicent Bulstrode",
+                        "role": "student",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Frank Bryce",
+                        "role": "Gardener, Riddle Family",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Charity Burbage",
+                        "role": "Professor, Muggle Studies",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Alecto Carrow",
+                        "role": "Professor, Muggle Studies",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Amycus Carrow",
+                        "role": "Professor, Dark Arts",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Reginald Cattermole",
+                        "role": "Employee, Magical Maintenance Department",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Mary Cattermole",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Cho Chang",
+                        "role": "Student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": "swan"
+                    },
+                    {
+                        "name": "Penelope Clearwater",
+                        "role": "Student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Penny",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Michael Corner",
+                        "role": "Student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Crabbe",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Vincent Crabbe",
+                        "role": "Student",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Colin Creevey",
+                        "role": "Student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Dennis Creevey",
+                        "role": "Student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Dirk Cresswell",
+                        "role": "Head, Goblin Liason Office",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Bartemius Crouch Sr.",
+                        "role": "Head, Department of International Magical Cooperation",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Barty",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Bartemius Crouch Jr.",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": "Barty",
+                        "patronus": null
+                    },
+                    {
+                        "name": "John Dawlish",
+                        "role": "Auror",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fleur Delacour",
+                        "role": "Student",
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Gabrielle Delacour",
+                        "role": "Student",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Dedalus Diggle",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Amos Diggory",
+                        "role": "Employee, Department for the Regulation and Control of Magical Creatures",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Cedric Diggory",
+                        "role": "Student",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Elphias Doge",
+                        "role": "Special Advisor to the Wizengamot",
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Antonin Dolohov",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Aberforth Dumbledore",
+                        "role": "Owner, Hog's Head Inn",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Ab",
+                        "patronus": "goat"
+                    },
+                    {
+                        "name": "Albus Dumbledore",
+                        "role": "Headmaster, Hogwarts",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": "phoenix"
+                    },
+                    {
+                        "name": "Ariana Dumbledore",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Dudley Dursley",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Marjorie Dursley",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Marge",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Petunia Dursley",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Vernon Dursley",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Marietta Edgecombe",
+                        "role": "student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Everard",
+                        "role": "(former) Headmaster, Hogwarts",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Arabella Figg",
+                        "role": "Dealer of cross-bread cats and kneazies",
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Argus Filch",
+                        "role": "Caretaker, Hogwarts",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Justin Finch-Fletchley",
+                        "role": "student",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Seamus Finnigan",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Marcus Flint",
+                        "role": "student",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Nicolas Flamel",
+                        "role": "Alchemist",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Mundungus Fletcher",
+                        "role": "Dealer of Wizarding Artifacts",
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Dung",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Filius Flitwick",
+                        "role": "Professor, Charms",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Cornelius Fudge",
+                        "role": "Minister of Magic",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Marvolo Gaunt",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Merope Gaunt",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Morfin Gaunt",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Anthony Goldstein",
+                        "role": "student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Goyle Sr.",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Gregory Goyle",
+                        "role": "student",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Hermione Granger",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": "otter"
+                    },
+                    {
+                        "name": "Mykew Gregorovitch",
+                        "role": "Wand Maker",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fenrir Greyback",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Gellert Grindelwald",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Percival Graves",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Wilhelmina Grubbly-Plank",
+                        "role": "Professor, Care of Magical Creatures",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Godric Gryffindor",
+                        "role": "Founder, Hogwarts",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Rubeus Hagrid",
+                        "role": "Groundkeeper, Professor, Care of Magical Creatures",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Rolanda Hooch",
+                        "role": "Quidditch Referee ",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Mafalda Hopkirk",
+                        "role": "Assistant, mproper Use of Magic Office",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Helga Hufflepuff",
+                        "role": "Founder, Hogwarts",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Angelina Johnson",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Lee Jordan",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": "River",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Bertha Jorkins",
+                        "role": "Department of Magical Games and Sports Employee",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Igor Karkaroff",
+                        "role": "Headmaster, Durmstrang",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Viktor Krum",
+                        "role": "Bulgarian Quiddich Seeker",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Bellatrix Lestrange",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": "Bella",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Rabastan Lestrange",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Rodolphus Lestrange",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Gilderoy Lockhart",
+                        "role": "Professor, Defense Against the Dark Arts",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Alice Longbottom",
+                        "role": "Auror (formerly)",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Frank Longbottom",
+                        "role": "Auror (formerly)",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Augusta Longbottom",
+                        "role": null,
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Neville Longbottom",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Luna Lovegood",
+                        "role": "student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": "Loony Lovegood",
+                        "patronus": "hare"
+                    },
+                    {
+                        "name": "Xenophilius Lovegood",
+                        "role": "Editor, The Quibbler",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Xeno",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Remus Lupin",
+                        "role": "Professor, Defence Against the Dark Arts",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Moony",
+                        "patronus": "wolf"
+                    },
+                    {
+                        "name": "Walden Macnair",
+                        "role": "Executioner, Committee of Disposal of Dangerous Creatures",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Draco Malfoy",
+                        "role": "student",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Lucius Malfoy",
+                        "role": "School Governer of Hogwarts",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Narcissa Malfoy",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Madam Malkin",
+                        "role": "Shop Owner, Madam Malkin's Robes for All Occasions",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Olympe Maxime",
+                        "role": "Headmistress, Beauxbatons Academy of Magic",
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Ernest Macmillan",
+                        "role": "student",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": "Ernie",
+                        "patronus": "boar"
+                    },
+                    {
+                        "name": "Minerva McGonagall",
+                        "role": "Professor, Transfiguration",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": "cat"
+                    },
+                    {
+                        "name": "Alastor Moody",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Mad-Eye",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Theodore Nott",
+                        "role": "student",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Garrick Ollivander",
+                        "role": "Wandmaker",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Pansy Parkinson",
+                        "role": "student",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Padma Patil",
+                        "role": "student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Parvati Patil",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Peter Pettigrew",
+                        "role": null,
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": "Wormtail",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Antioch Peverell",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Cadmus Peverell",
+                        "role": "Owner of the resurrection stone",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Ignotus Peverell",
+                        "role": "Owner of the invisibility cloak",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Irma Pince",
+                        "role": "Librarian, Hogwarts",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Sturgis Podmore",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Poppy Pomfrey",
+                        "role": "Matron, Hogwarts Hospital Wing",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Harry Potter",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": "The Boy Who Lived",
+                        "patronus": "stag"
+                    },
+                    {
+                        "name": "James Potter I",
+                        "role": null,
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Prongs",
+                        "patronus": "stag"
+                    },
+                    {
+                        "name": "Lily J. Potter",
+                        "role": null,
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": "doe"
+                    },
+                    {
+                        "name": "Ernest Prang",
+                        "role": "Driver of the Knight Bus",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Ernie",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Quirinus Quirrell",
+                        "role": "Professor, Defence Against the Dark Arts",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Helena Ravenclaw",
+                        "role": "Ravenclaw House Ghost",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Grey Lady",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Rowena Ravenclaw",
+                        "role": "Founder, Hogwarts",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Mary Riddle",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Thomas Riddle",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Tom Riddle Sr",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Tom Riddle",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": "Lord Voldemort",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Demelza Robins",
+                        "role": null,
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Augustus Rockwood",
+                        "role": "Unspeakable",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Albert Runcorn",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Scabior",
+                        "role": "Snatcher",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Newton Scamander ",
+                        "role": "Author, Fantastic Beasts and Where to Find Them",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Newt ",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Rufus Scrimgeour",
+                        "role": "Head of Auror Office",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Kingsley Shacklebolt",
+                        "role": "Auror",
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": "lynx"
+                    },
+                    {
+                        "name": "Stanley Shunpike",
+                        "role": "Conductor of the Knight Bus",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Stan ",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Aurora Sinistra",
+                        "role": "Professor, Astronomy",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Rita Skeeter",
+                        "role": "Gossip Correspondant for the Daily Prophet",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Queen of the Quills",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Horace Slughorn",
+                        "role": "Professor, Potions",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Salazar Slytherin",
+                        "role": "Founder, Hogwarts",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Hepzibah Smith",
+                        "role": null,
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Zacharias Smith",
+                        "role": "student",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Severus Snape",
+                        "role": "Professor, Potions",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": "doe"
+                    },
+                    {
+                        "name": "Alicia Spinnet",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Pomona Sprout",
+                        "role": "Professor, Herbology",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Pius Thicknesse",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Dean Thomas",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Andromeda Tonks",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Nymphadora Tonks",
+                        "role": "Auror",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Tonks",
+                        "patronus": "wolf"
+                    },
+                    {
+                        "name": "Edward Tonks",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Ted",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Travers",
+                        "role": "Ministry of Magic Official",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Sybill Trelawney",
+                        "role": "Professor, Divination",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Dolores Umbridge",
+                        "role": "Head of the Muggle Born Registration Commission",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": "persian cat"
+                    },
+                    {
+                        "name": "Emmeline Vance",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Romilda Vane",
+                        "role": null,
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Septima Vector",
+                        "role": "Professor, Arithmancy",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Arthur Weasley",
+                        "role": "Head, Misuse of Muggle Artifacts ",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": "weasel"
+                    },
+                    {
+                        "name": "William Weasley",
+                        "role": "Curse Breaker, Gringotts Bank",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Bill",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Charles Weasley",
+                        "role": "Dragonologist",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Charlie",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fred Weasley",
+                        "role": "co-owner of Weasleys' Wizard Wheezes",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "George Weasley",
+                        "role": "co-owner of Weasleys' Wizard Wheezes",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Ginevra Weasley",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": "Ginny",
+                        "patronus": "horse"
+                    },
+                    {
+                        "name": "Molly Weasley",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Percy Weasley",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Ronald Weasley",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": true,
+                        "dumbledoresArmy": true,
+                        "deathEater": false,
+                        "alias": "Ron",
+                        "patronus": "jack russell terrier"
+                    },
+                    {
+                        "name": "Oliver Wood",
+                        "role": "student",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Kennilworthy Whisp",
+                        "role": "Author, Quiddich Through The Ages",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Corban Yaxley",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": true,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Blaise Zabini",
+                        "role": null,
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Aragog",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Bane",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Beedle the Bard",
+                        "role": "Fairytale Author",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Bloody Baron",
+                        "role": "Slytherin House Ghost",
+                        "house": {
+                            "name": "Slytherin"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Buckbeak",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Cadogan",
+                        "role": "Gryffindor Tower Door Guard",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Crookshanks",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Dobby",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Errol",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fang",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fat Friar",
+                        "role": "Hufflepuff House Ghost",
+                        "house": {
+                            "name": "Hufflepuff"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fridfwulfa",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fat Lady",
+                        "role": "Gryffindor Tower Door Guard",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fawkes",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Firenze",
+                        "role": "Professor, Divination",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Fluffy",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Grawp",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Griphook",
+                        "role": "Employee, Gringotts Wizarding Bank",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Hedwig",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Hokey",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Kreacher",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Magorian",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Myrtle Warren",
+                        "role": "student",
+                        "house": {
+                            "name": "Ravenclaw"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Moaning Myrtle",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Mrs. Norris",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Great Aunt Muriel",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Nagini",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Nicholas de Mimsy-Porpington",
+                        "role": "Gryffindor House Ghost",
+                        "house": {
+                            "name": "Gryffindor"
+                        },
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Nearly Headless Nick",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Norbert",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Peeves",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Pigwidgeon",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": "Pig",
+                        "patronus": null
+                    },
+                    {
+                        "name": "Madam Rosmerta",
+                        "role": "Owner, The Three Broomsticks",
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Ronan",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Trevor",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    },
+                    {
+                        "name": "Winky",
+                        "role": null,
+                        "house": null,
+                        "orderOfThePhoenix": false,
+                        "dumbledoresArmy": false,
+                        "deathEater": false,
+                        "alias": null,
+                        "patronus": null
+                    }
+                ]
+            }
+        },
+        "pageContext": {}
+    },
+    "staticQueryHashes": []
+}
